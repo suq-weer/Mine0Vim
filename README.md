@@ -1,3 +1,5 @@
+**First, thanks for [@StrayDragon](https://github.com/StrayDragon)**
+
 # Mine0Vim
 My personal experimental Vim-like enviroment configs
 
